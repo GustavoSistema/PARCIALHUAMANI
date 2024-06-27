@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Ensalada",
+        "ingredientes": ["lechuga", "tomate", "zanahoria"],
+        "imagen": "app/src/images/ensalada.jpg"
+    },
+    {
+        "nombre": "Sopa",
+        "ingredientes": ["pollo", "fideos", "zanahoria"],
+        "imagen": "app/src/images/sopa.jpg"
+    },
+    {
+        "nombre": "Arroz con Pollo",
+        "ingredientes": ["pollo", "arroz", "zanahoria", "alberja"],
+        "imagen": "app/src/images/arroz.jpeg"
+    }
+]

@@ -1,0 +1,56 @@
+.container {
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: green;
+}
+h3 {
+    text-align: center;
+    color: green;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+}
+
+.column {
+    flex: 1;
+    margin: 10px;
+}
+
+.ingrediente {
+    margin: 10px 0;
+}
+
+.cocinar-btn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.cocinar-btn:hover {
+    background-color: #45a049;
+}
+
+.resultado {
+    text-align: center;
+}
+
+.resultado img {
+    max-width: 100%;
+    height: auto;
+}
+
+.error {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
